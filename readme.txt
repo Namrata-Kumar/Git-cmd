@@ -1,3 +1,5 @@
+Author:Namrata Kumar
+
 DevOps is a culture which is followed in most of the organizations in these days.
 
 SDLC: Software Development Life cycle:
